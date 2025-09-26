@@ -31,11 +31,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/vzip.git"
+    "url": "https://github.com/rayangmoon/vzip.git"
   },
-  "homepage": "https://github.com/yourusername/vzip#readme",
+  "homepage": "https://github.com/rayangmoon/vzip#readme",
   "bugs": {
-    "url": "https://github.com/yourusername/vzip/issues"
+    "url": "https://github.com/rayangmoon/vzip/issues"
   },
   "dependencies": {
     "chalk": "^4.1.2",
