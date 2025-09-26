@@ -1,0 +1,49 @@
+{
+  "name": "vzip",
+  "version": "1.1.2",
+  "description": "A lightweight batch video compression tool based on FFmpeg for MP4 files",
+  "main": "index.js",
+  "bin": {
+    "vzip": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "video",
+    "compression",
+    "ffmpeg",
+    "batch",
+    "mp4",
+    "compress",
+    "cli",
+    "tool",
+    "media",
+    "video-processing"
+  ],
+  "author": {
+    "name": "Lei Yang"
+  },
+  "license": "ISC",
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/vzip.git"
+  },
+  "homepage": "https://github.com/yourusername/vzip#readme",
+  "bugs": {
+    "url": "https://github.com/yourusername/vzip/issues"
+  },
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "commander": "^14.0.1",
+    "ffmpeg-static": "^5.2.0"
+  },
+  "files": [
+    "index.js",
+    "README.md"
+  ]
+}
